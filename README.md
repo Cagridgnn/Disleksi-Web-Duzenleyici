@@ -1,6 +1,6 @@
 # Dyslexia-extension v1.2
 
-Disleksi Modu is a Chrome extension designed to make websites easier to read for people with dyslexia.  
+Dyslexia-extension is a Chrome extension designed to make websites easier to read for people with dyslexia.  
 It improves readability with font customization, spacing adjustments, full-page accessibility mode, and AI-powered text simplification.
 
 ---
