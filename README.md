@@ -1,20 +1,20 @@
-# Dyslexia-extension v1.2
+# Disleksi-Web-Düzenleyici
 
-Dyslexia-extension is a Chrome extension designed to make websites easier to read for people with dyslexia.  
-It improves readability with font customization, spacing adjustments, full-page accessibility mode, and AI-powered text simplification.
+Disleksi-Web-Düzenleyici is a Chrome extension developed to improve web readability for individuals with dyslexia.  
+The extension modifies webpage typography and layout to create a more accessible and comfortable reading experience.
 
 ---
 
 ## ✨ Features
 
 - Dyslexia-friendly reading mode
-- Custom font styling
-- Adjustable letter and line spacing
+- Adjustable font styling
+- Improved line and letter spacing
 - Full-page readability enhancement
 - Right-click context menu support
 - AI-powered text simplification
-- One-click enable/disable system
-- Lightweight and fast
+- Fast enable/disable system
+- Lightweight and responsive
 
 ---
 
@@ -32,7 +32,7 @@ It improves readability with font customization, spacing adjustments, full-page 
 ## 📂 Project Structure
 
 ```bash
-Disleksi-Modu/
+Disleksi-Web-Duzenleyici/
 │
 ├── manifest.json
 ├── popup.html
@@ -50,10 +50,10 @@ Disleksi-Modu/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/disleksi-modu.git
+git clone https://github.com/yourusername/Disleksi-Web-Duzenleyici.git
 ```
 
-2. Open Chrome and go to:
+2. Open Chrome and navigate to:
 
 ```bash
 chrome://extensions
@@ -101,14 +101,14 @@ The extension uses the following permissions:
 - [x] AI text simplification
 - [ ] Custom fonts
 - [ ] Text-to-Speech support
-- [ ] Themes
+- [ ] Theme system
 - [ ] Keyboard shortcuts
 
 ---
 
 ## 🤝 Contributing
 
-Contributions, suggestions, and pull requests are welcome.
+Contributions and suggestions are welcome.
 
 1. Fork the repository
 2. Create a new branch
